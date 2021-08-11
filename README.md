@@ -1,3 +1,3 @@
 # Loja TechStyle
 
-Exercício do programa Tech Bank (incompleto)
+Exercício do programa Tech Bank (exercício em andamento)
